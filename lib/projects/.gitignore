@@ -1,20 +1,11 @@
-# Ignore specific files
-../../.metadata
-../../README.md
-../../analysis_options.yaml
-../../pubspec.lock
-../../pubspec.yaml
-
-# Ignore directories
+../../.metadata 
+../../.dart_tool/
+ ../../.flutter-plugins
+ ../../.flutter-plugins-dependencies
+../../.idea/
 ../../android/
-../../assest/
+../../build/
 ../../ios/
-../../linux/
 ../../macos/
-../../test/
-../../web/
+../../my_app.iml
 ../../windows/
-
-# Ignore specific files relative to main.dart and ui_helper
-../main.dart
-../ui_helper/
