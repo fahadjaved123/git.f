@@ -1,11 +1,2 @@
-.metadata
-.dart_tool/
-.flutter-plugins
-.flutter-plugins-dependencies
-.idea/
-android/
-build/
-ios/
-macos/
-my_app.iml
-windows/
+dart_tool
+flutter-plugins
